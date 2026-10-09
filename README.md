@@ -232,6 +232,8 @@ Este proyecto demuestra el uso de:
 
 ## Autoría
 
+María Alejandra Martínez Reverol
+
 Proyecto desarrollado para la asignatura **Frontend I**.
 
 Tienda ficticia: **Level Up Girls**.
