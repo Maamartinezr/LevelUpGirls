@@ -1,0 +1,57 @@
+[
+  {
+    "id": 101,
+    "name": "Aurora Quest: Dream Worlds",
+    "category": "videojuegos",
+    "platform": "PC / Nintendo Switch",
+    "normalPrice": 39990,
+    "offerPrice": 34990,
+    "description": "Nuevo juego de aventura cooperativa con mundos brillantes, misiones creativas y personalizacion de personaje.",
+    "image": "assets/img/slide-videojuegos.png",
+    "alt": "Lanzamiento de videojuegos en vitrina gamer"
+  },
+  {
+    "id": 102,
+    "name": "Pack Streaming Glow Starter",
+    "category": "accesorios",
+    "platform": "PC / Notebook",
+    "normalPrice": 79990,
+    "offerPrice": 69990,
+    "description": "Combo con webcam, microfono e iluminacion suave para iniciar streams, clases o contenido digital.",
+    "image": "assets/img/slide-accesorios.png",
+    "alt": "Pack de accesorios gamer con webcam y microfono"
+  },
+  {
+    "id": 103,
+    "name": "Coleccion Merch Sakura Player",
+    "category": "merchandising",
+    "platform": "Merch gamer",
+    "normalPrice": 59990,
+    "offerPrice": 49990,
+    "description": "Seleccion de polera, tazon y figura con estetica neon para completar tu espacio gamer.",
+    "image": "assets/img/slide-merchandising.png",
+    "alt": "Productos merchandising gamer en exhibicion"
+  },
+  {
+    "id": 104,
+    "name": "Setup Aurora RGB Bundle",
+    "category": "setup",
+    "platform": "Setup gamer",
+    "normalPrice": 249990,
+    "offerPrice": 219990,
+    "description": "Pack de silla, luces y accesorios para renovar tu escritorio con estilo profesional.",
+    "image": "assets/img/slide-setup.png",
+    "alt": "Setup gamer blanco y rosado con luces RGB"
+  },
+  {
+    "id": 105,
+    "name": "Level Up Girls Gift Card",
+    "category": "ofertas",
+    "platform": "Digital",
+    "normalPrice": 29990,
+    "offerPrice": 24990,
+    "description": "Tarjeta digital para regalar videojuegos, accesorios o productos de merchandising.",
+    "image": "assets/img/slide-ofertas.png",
+    "alt": "Tarjetas de regalo y bolsas de compra gamer"
+  }
+]
